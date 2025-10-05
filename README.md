@@ -63,7 +63,7 @@ Java-based CRUD application for managing student data with **JDBC & MySQL**.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aRjUnBhAlEkAr&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aRjUnBhAlEkAr&theme=react&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="49%"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=aRjUnBhAlEkAr&theme=react&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="49%"/> -->
 </p>
 
 <p align="center">
