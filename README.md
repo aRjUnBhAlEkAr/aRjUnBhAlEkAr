@@ -1,97 +1,74 @@
-<!-- Intro Section -->
-<h1 align="center">👋 Hi, I'm Arjun Bhalekar</h1>
-<h3 align="center">💻 Passionate Software Engineer | Full Stack Developer | AI & ML Enthusiast</h3>
+<!-- --------------- HEADER SECTION --------------- -->
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Arjun Bhalekar</span></h1>
+<h3 align="center">💻 Software Engineer | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aRjUnBhAlEkAr&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  <a href="https://github.com/aRjUnBhAlEkAr?tab=followers">
-    <img src="https://img.shields.io/github/followers/aRjUnBhAlEkAr?label=Followers&style=social" alt="followers-count">
+  <a href="https://github.com/aRjUnBhAlEkAr">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Software+Engineer+@EKA+Mobility;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+and+Smart+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🧩 **About Me**
+## 👨‍💻 **About Me**
 
-🎯 Currently working as **Graduate Engineer Trainee (R&D)** at **EKA Mobility**  
-💻 Developing **RESTful APIs, scalable backends (Django)**, and **interactive React frontends**  
-🧠 Strong foundation in **OOPs, DSA, DBMS, and Operating Systems**  
-🌱 Exploring **AI-driven systems**, **Computer Vision**, and **ML integration**  
-🎓 B.Tech in **Computer Science & Engineering** from CSMSS College of Engineering, Sambhajinagar  
-⚡ Fun fact: I love coding, acting, and participating in hackathons!  
-
----
-
-## 🚀 **Tech Stack**
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+🌱 Currently working as **Graduate Engineer Trainee (R&D)** at **EKA Mobility**  
+💡 Developing **RESTful APIs**, **React UIs**, and **Django Backends**  
+⚙️ Skilled in **Python, Java, React.js, Django, SQL, and Docker**  
+🚀 Passionate about **AI-Driven applications** and **Intelligent Automation**  
+🎓 Pursuing **B.Tech in Computer Science & Engineering**  
+📫 Reach me at **er.arjunbhalekar@gmail.com**  
 
 ---
 
-## 🌟 **Projects Showcase**
+## 🛠️ **Tech Stack**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,django,flask,postgresql,mysql,git,github,docker,postman,vercel" />
+</p>
+
+---
+
+## 💡 **Featured Projects**
 
 ### 🌾 [AI-Driven Crop Disease Prediction System](#)
-> Web + Android platform for predicting crop diseases using **CNN-based image classification**, weather data, and soil analysis.  
+A web + Android app for crop disease detection using **CNN-based image classification**, weather & soil analysis.  
 **Tech:** Python, Flask, CNN, Flutter, HTML, CSS, JS  
 
 ### 🚉 [Railway Announcement System](#)
-> Multi-language automated announcements using **Speech Recognition & Translation APIs**.  
-**Tech:** Python (Tkinter), SpeechRecognition, API Integration  
+Automated multi-language announcement system using **Speech Recognition & Translation APIs**.  
+**Tech:** Python, Tkinter, SpeechRecognition, API Integration  
 
 ### 🧠 [AI Personal Assistant](#)
-> Desktop assistant capable of performing speech-based commands using **NLP and voice recognition**.  
-**Tech:** Python, Tkinter, API Integration  
+Voice-based assistant capable of executing daily tasks and answering queries.  
+**Tech:** Python, NLP, Tkinter, API Integration  
 
 ### 🎓 [Student Management System](#)
-> Java-based CRUD application for student record management.  
-**Tech:** Java, AWT, Swing, JDBC, MySQL  
+Java-based CRUD application for managing student data with **JDBC & MySQL**.  
+**Tech:** Java, Swing, JDBC, MySQL  
 
 ---
 
 ## 🏆 **Achievements & Roles**
 
-- 🥇 Best Developer Award – *Sumago Info Tech*  
-- 🏅 Hackathon Team Lead – *CSMSS College (2023–24)*  
-- 🔧 SAEINDIA BAJA Team Member – *Powertrain Department*  
-- 🎭 Best Acting Performer – *Annual Gathering 2022–23*  
-- 🥋 3rd Place – *State Level Karate Championship (Govt. of India)*  
+- 🥇 *Best Developer Award* – Sumago Info Tech  
+- 🧠 *Hackathon Team Lead* – CSMSS College (2023–24)  
+- ⚙️ *SAEINDIA BAJA Team Member* – Powertrain Department  
+- 🎭 *Best Acting Performer* – Annual Gathering (2022–23)  
+- 🥋 *3rd Place* – Govt. of India State Karate Championship  
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📈 **GitHub Insights**
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aRjUnBhAlEkAr&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aRjUnBhAlEkAr&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aRjUnBhAlEkAr&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aRjUnBhAlEkAr&theme=react&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="49%"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aRjUnBhAlEkAr&layout=compact&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=aRjUnBhAlEkAr&theme=tokyonight&row=1&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aRjUnBhAlEkAr&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aRjUnBhAlEkAr&theme=onestar&no-frame=true&row=1&margin-w=10" width="53%" />
 </p>
 
 ---
@@ -99,21 +76,23 @@
 ## 🌐 **Connect with Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arjun-bhalekar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Arjun%20Bhalekar-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/arjun-bhalekar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/aRjUnBhAlEkAr">
-    <img src="https://img.shields.io/badge/GitHub-aRjUnBhAlEkAr-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/aRjUnBhAlEkAr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/aRjUnBhAlEkAr/">
-    <img src="https://img.shields.io/badge/LeetCode-arjunbhalekar-orange?style=for-the-badge&logo=leetcode" />
+  <a href="https://leetcode.com/u/aRjUnBhAlEkAr/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/arjunbhalekar37">
-    <img src="https://img.shields.io/badge/HackerRank-arjunbhalekar37-brightgreen?style=for-the-badge&logo=hackerrank" />
+  <a href="https://www.hackerrank.com/profile/arjunbhalekar37" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ **“Code. Learn. Build. Repeat.”**  
-> _Turning ideas into reality through technology._
+<h3 align="center">⭐ “Code. Learn. Build. Repeat.”</h3>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
