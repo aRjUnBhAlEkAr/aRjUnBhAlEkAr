@@ -16,7 +16,7 @@
 💡 Developing **RESTful APIs**, **React UIs**, and **Django Backends**  
 ⚙️ Skilled in **Python, Java, React.js, Django, SQL, and Docker**  
 🚀 Passionate about **AI-Driven applications** and **Intelligent Automation**  
-🎓 Pursuing **B.Tech in Computer Science & Engineering**  
+🎓 **B.Tech in Computer Science & Engineering**  
 📫 Reach me at **er.arjunbhalekar@gmail.com**  
 
 ---
